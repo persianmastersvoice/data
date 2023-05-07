@@ -1,0 +1,11 @@
+{
+    "id": "1",
+    "title": "Song 1",
+    "artist": "Artist 1",
+    "album": "Album 1",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ornare odio ac libero semper facilisis. Aliquam suscipit, velit non luctus vestibulum, urna lectus semper lorem, vel sagittis ex dolor ac elit. ",
+    "coverImage": "song-1.jpg",
+    "audioFile": "song-1.mp3"
+  }
