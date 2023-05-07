@@ -1,0 +1,47 @@
+{
+    "albums": [
+      {
+        "id": 1,
+        "title": "Album Title 1",
+        "artist": "Artist 1",
+        "year": "2021",
+        "genre": "Pop",
+        "cover_art": "album1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in lorem nec nulla bibendum porttitor. Integer euismod aliquet purus, nec volutpat mauris dictum in.",
+        "songs": [
+          {
+            "id": 1,
+            "title": "Song Title 1",
+            "duration": "4:30"
+          },
+          {
+            "id": 2,
+            "title": "Song Title 2",
+            "duration": "3:45"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Album Title 2",
+        "artist": "Artist 2",
+        "year": "2022",
+        "genre": "Rock",
+        "cover_art": "album2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in lorem nec nulla bibendum porttitor. Integer euismod aliquet purus, nec volutpat mauris dictum in.",
+        "songs": [
+          {
+            "id": 3,
+            "title": "Song Title 3",
+            "duration": "5:20"
+          },
+          {
+            "id": 4,
+            "title": "Song Title 4",
+            "duration": "3:30"
+          }
+        ]
+      }
+    ]
+  }
+  
