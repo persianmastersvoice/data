@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "title": "Album Title 1",
+    "artist": "Artist 1",
+    "year": "2021",
+    "genre": "Pop",
+    "cover_art": "album1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in lorem nec nulla bibendum porttitor. Integer euismod aliquet purus, nec volutpat mauris dictum in.",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song Title 1",
+        "duration": "4:30",
+        "file": "song1.mp3"
+      },
+      {
+        "id": 2,
+        "title": "Song Title 2",
+        "duration": "3:45",
+        "file": "song2.mp3"
+      }
+    ]
+  }
+  
