@@ -1,0 +1,84 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Mohammad Reza Shajarian",
+        "image": "mohammad-reza-shajarian.jpg",
+        "bio": "Mohammad Reza Shajarian was an Iranian classical singer and composer...",
+        "albums": [
+          {
+            "id": 1,
+            "title": "Alefba",
+            "image": "alefba.jpg",
+            "year": 2003,
+            "tracks": [
+              {
+                "id": 1,
+                "title": "Track 1",
+                "length": "4:32",
+                "file": "track1.mp3"
+              },
+              {
+                "id": 2,
+                "title": "Track 2",
+                "length": "5:22",
+                "file": "track2.mp3"
+              },
+              ...
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Navazesh",
+            "image": "navazesh.jpg",
+            "year": 1997,
+            "tracks": [
+              {
+                "id": 1,
+                "title": "Track 1",
+                "length": "6:12",
+                "file": "track1.mp3"
+              },
+              {
+                "id": 2,
+                "title": "Track 2",
+                "length": "4:56",
+                "file": "track2.mp3"
+              },
+              ...
+            ]
+          },
+          ...
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Morteza",
+        "image": "morteza.jpg",
+        "bio": "Morteza is an Iranian pop singer...",
+        "albums": [
+          {
+            "id": 1,
+            "title": "Album 1",
+            "image": "album1.jpg",
+            "year": 2008,
+            "tracks": [
+              {
+                "id": 1,
+                "title": "Track 1",
+                "length": "3:45",
+                "file": "track1.mp3"
+              },
+              {
+                "id": 2,
+                "title": "Track 2",
+                "length": "4:11",
+                "file": "track2.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
