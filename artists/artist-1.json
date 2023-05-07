@@ -1,0 +1,21 @@
+{
+    "id": "1",
+    "name": "Artist 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ornare odio ac libero semper facilisis. Aliquam suscipit, velit non luctus vestibulum, urna lectus semper lorem, vel sagittis ex dolor ac elit. Duis sodales sapien nec sem consectetur, ac scelerisque nibh rutrum.",
+    "image": "artist-1.jpg",
+    "songs": [
+      {
+        "id": "1",
+        "title": "Song 1",
+        "duration": "3:45",
+        "file": "song-1.mp3"
+      },
+      {
+        "id": "2",
+        "title": "Song 2",
+        "duration": "4:15",
+        "file": "song-2.mp3"
+      }
+    ]
+  }
+  
